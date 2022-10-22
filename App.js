@@ -28,7 +28,7 @@ const Profile = (props) => {
 //   render() {
 //     return <Text>{this.props.name}</Text>;
 //   }
-}
+// }
 const FreindList = () => {
   return (
     <View>
